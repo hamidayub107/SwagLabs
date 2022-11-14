@@ -1,5 +1,5 @@
 # SwagLabs
-This project requires Eclipse ide, java jdk and testng libraries.
+This project requires Eclipse ide, java(jdk) and testng library.
 Once the above mentioned setup is completed you can open the project and navigate to srs/test/java.
 Expand the default package.
 Open AssignmentTest.java file.
